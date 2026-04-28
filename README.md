@@ -2,12 +2,12 @@
 
 I am an AI/ML Backend Engineer based in the San Francisco Bay Area with 5 years of
 experience building production grade AI systems that actually ship. I love the moment
-when a hard problem finally clicks — the kind where you scratch your head for days and
+when a hard problem finally clicks, the kind where you scratch your head for days and
 then feel incredibly satisfied when it all comes together.
 
 Most recently I built LLM powered features, RAG pipelines, and agentic workflows in
 production at StoryStream (UK), where I owned the company's first AI driven
-recommendation system end to end — from proof of concept all the way to a 15%
+recommendation system end to end, from proof of concept all the way to a 15%
 improvement in precision and a 10% reduction in latency.
 
 I moved to the US recently and have been building ever since.
@@ -56,11 +56,11 @@ Distributed Systems, REST APIs, CI/CD, Unit Testing, MLOps
 
 ## 📌 A bit about me
 
-- 🎓 MSc in Artificial Intelligence — University of Southampton, UK
+- 🎓 MSc in Artificial Intelligence - University of Southampton, UK
 - 🏭 Built production AI systems used by real enterprise clients
 - 🌍 Originally from India, lived in the UK, now building in the Bay Area
 - 🔍 Currently open to AI/ML engineering roles in the US
-- 🤝 US Employment Authorized (EAD) — no sponsorship needed
+- 🤝 US Employment Authorized (EAD) - no sponsorship needed
 
 ---
 
